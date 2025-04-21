@@ -12,7 +12,12 @@ Use `--copy` if you don’t want to move the original files.
 
 Supports WAV, AIFF, FLAC, and MIDI files.
 
-Categories include:
+Categories include: (see `./organizer/config.py`)
 - Drums / OneShots / Loops
 - Instruments: Bass, Synth, Guitar, etc.
 - MIDI: Arps, Chords, Melodies, Drums, FX, etc.
+- Add as many categories you'd like and works best for you.
+
+## ⚠️ Known issue:
+
+- Gui doesn't work properly.
