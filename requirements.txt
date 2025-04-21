@@ -1,0 +1,4 @@
+# Sample Organizer Tool
+# Supports organizing audio samples and MIDI files into categorized folders
+# Default behavior moves files. Use --copy to retain originals.
+# Requires Python 3.6+
